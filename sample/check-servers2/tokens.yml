@@ -1,0 +1,2 @@
+access_token: [token de acesso para uso da api do google drive - rode o script get-tokens... para obte-lo]
+refresh_token: [token de refresh para uso da api do google drive - rode o script get-tokens... para obte-lo]

@@ -1,0 +1,11 @@
+document_key: 1v-MmdCbQc-1omVC6GJBMsldtY1wL7c_E6HY57R6DadI
+worksheet_index: 0
+start_from_row: 2
+server_column: C
+ip_column: D
+port_column: E
+date_column: F
+result_column: G
+result_detail_column: H
+ports_separator: ','
+ports_range_separator: '-'
